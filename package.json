@@ -1,0 +1,14 @@
+{
+  "name": "gdevelop-0.1",
+  "version": "0.1.0",
+  "description": "gdevelop engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel (TheGemDev)",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  }
+}
