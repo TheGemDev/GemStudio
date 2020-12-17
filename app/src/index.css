@@ -9,7 +9,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #282c34
+  background-color: #282c34;
+  user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  draggable: none;
 }
 
 code {

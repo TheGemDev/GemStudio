@@ -1,10 +1,11 @@
 
-.App {
-  text-align: center;
+.App-page {
+  text-transform: uppercase;
+  position: relative;
 }
 
-.App-header {
-  background-color: #282c34;
+.App-body {
+  text-align: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -12,7 +13,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 
+.App-footer {
+  position: absolute;
+  top: 94vh;
+}
 
